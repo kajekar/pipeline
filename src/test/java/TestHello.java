@@ -13,7 +13,7 @@ public class TestHello {
     @Test
     public void testFails() {
         // Changing the same line. 
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 
     @Test
